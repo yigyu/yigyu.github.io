@@ -13,6 +13,4 @@ tags: [computer vision]
 
 ![3](/assets/images/2023-11-27-unsupervisedlearning/3.jpg)
 
-![4](/assets/images/2023-11-27-unsupervisedlearning/4.png)
-
-![5](/assets/images/2023-11-27-unsupervisedlearning/5.jpg)
+![4](/assets/images/2023-11-27-unsupervisedlearning/4.jpg)
