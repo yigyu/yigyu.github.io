@@ -1,0 +1,29 @@
+---
+layout: single
+title: "모각소 2주차 Q-learning, DQN 공부"
+categories: mogakso
+tags: [reinforcement learning]
+---
+
+# Q-learning study
+
+![1](/assets/images/2024-01-19-mogakso2/1.jpg)
+
+![2](/assets/images/2024-01-19-mogakso2/2.jpg)
+
+![3](/assets/images/2024-01-19-mogakso2/3.jpg)
+
+![4](/assets/images/2024-01-19-mogakso2/4.jpg)
+
+![5](/assets/images/2024-01-19-mogakso2/5.jpg)
+
+![6](/assets/images/2024-01-19-mogakso2/6.jpg)
+
+![7](/assets/images/2024-01-19-mogakso2/7.jpg)
+
+![8](/assets/images/2024-01-19-mogakso2/8.jpg)
+
+![9](/assets/images/2024-01-19-mogakso2/9.jpg)
+
+![10](/assets/images/2024-01-19-mogakso2/10.jpg)
+
